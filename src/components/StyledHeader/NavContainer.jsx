@@ -7,10 +7,6 @@ import MenuItem from "@/slices-layout/MenuItem";
 import dynamic from "next/dynamic";
 import ContactLink from "./components/ContactLink";
 import hamburgerCloseAnim from "@/animations/hamburger-close.json";
-
-const AlgoliaSearchModal = dynamic(() => import("@/components/algolia-search-modal"), {
-  ssr: false,
-});
 const Lottie = dynamic(() => import("lottie-react"), {
   ssr: false,
 });
@@ -200,7 +196,6 @@ const NavContainer = ({ settings, navigation }) => {
                     />
                   );
                 })}
-                <AlgoliaSearchModal />
               </ul>
               <div className="mx-[16px] mt-[22px] xl:hidden">
                 <PrismicNextLink

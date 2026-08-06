@@ -13,19 +13,7 @@ import "instantsearch.css/themes/satellite.css";
 import "./algolia.scss";
 
 const AlgoliaSearchOverlayBlock = () => {
-  const [showSearch, setShowSearch] = useState(false);
-
-  const listenStorageChange = () => {
-    setShowSearch(isAlgoliaSearchModalOpen());
-  };
-
-  useEffect(() => {
-    window.addEventListener("storage", listenStorageChange);
-    return () => window.removeEventListener("storage", listenStorageChange);
-  }, []);
-
   if (!hasAlgoliaSearch) return null;
-  if (!showSearch) return null;
 
   return (
     <div

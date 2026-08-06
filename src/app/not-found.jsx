@@ -1,17 +1,8 @@
 import { GoArrowLeft } from "react-icons/go";
-import { hasAlgoliaSearch } from "@/utils/algolia-search";
 import Link from "next/link";
 import StyledHeader from "@/components/StyledHeader";
 import React from "react";
 import StyledFooter from "@/components/StyledFooter";
-import dynamicImport from "next/dynamic";
-
-const AlgoliaSearchOverlayWrapper = dynamicImport(
-  () => import("@/components/algolia-search-modal/overlay-wrapper"),
-);
-const AlgoliaSearch = dynamicImport(
-  () => import("@/components/algolia-search"),
-);
 
 export default async function NotFound() {
   return (
@@ -52,14 +43,8 @@ export default async function NotFound() {
             </div>
           </div>
 
-          {hasAlgoliaSearch && (
-            <div className={"mt-5 w-full"}>
-              <AlgoliaSearch />
-            </div>
-          )}
         </div>
       </div>
-      {hasAlgoliaSearch && <AlgoliaSearchOverlayWrapper />}
       <StyledFooter />
     </>
   );

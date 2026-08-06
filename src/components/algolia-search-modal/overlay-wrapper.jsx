@@ -1,10 +1,23 @@
-import { hasAlgoliaSearch } from "@/utils/algolia-search";
+"use client";
+import { useEffect, useState } from "react";
+import { hasAlgoliaSearch, isAlgoliaSearchModalOpen } from "@/utils/algolia-search";
 import dynamic from "next/dynamic";
 
-const AlgoliaSearchOverlayWrapper = async () => {
-  if (!hasAlgoliaSearch) return null;
+const SearchOverlay = dynamic(() => import("./overlay"), { ssr: false });
 
-  const SearchOverlay = dynamic(() => import("./overlay"));
+const AlgoliaSearchOverlayWrapper = () => {
+  const [showSearch, setShowSearch] = useState(false);
+
+  useEffect(() => {
+    const listenStorageChange = () => {
+      setShowSearch(isAlgoliaSearchModalOpen());
+    };
+    window.addEventListener("storage", listenStorageChange);
+    return () => window.removeEventListener("storage", listenStorageChange);
+  }, []);
+
+  if (!hasAlgoliaSearch) return null;
+  if (!showSearch) return null;
 
   return <SearchOverlay />;
 };
