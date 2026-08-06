@@ -31,8 +31,7 @@ const Variant5 = ({ slice }) => {
       {/* 2. Content Layer */}
       <StyledContainer
         slice={slice}
-        className="relative z-10 !bg-transparent h-full flex flex-col justify-end"
-        parentClass="my-auto"
+        className="relative z-10 !bg-transparent h-full flex flex-col justify-end pb-[16px]! md:pb-[40px]! xl:pb-[80px]!"
       >
         <div className="xl:max-w-[618px] w-full">
           <StyledHeroSectionTitle
