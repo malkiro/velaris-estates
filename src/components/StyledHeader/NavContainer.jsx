@@ -4,11 +4,16 @@ import { useEffect, useRef, useState } from "react";
 import { PrismicNextImage, PrismicNextLink } from "@prismicio/next";
 import clsx from "clsx";
 import MenuItem from "@/slices-layout/MenuItem";
-import AlgoliaSearchModal from "@/components/algolia-search-modal";
+import dynamic from "next/dynamic";
 import ContactLink from "./components/ContactLink";
-
-import Lottie from "lottie-react";
 import hamburgerCloseAnim from "@/animations/hamburger-close.json";
+
+const AlgoliaSearchModal = dynamic(() => import("@/components/algolia-search-modal"), {
+  ssr: false,
+});
+const Lottie = dynamic(() => import("lottie-react"), {
+  ssr: false,
+});
 
 const NavContainer = ({ settings, navigation }) => {
   // stickyMenu = navbar visible
