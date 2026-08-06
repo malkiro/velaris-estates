@@ -31,16 +31,21 @@ const MenuItem = ({ slice, setMobileMenuOpen }) => {
       onMouseLeave={() => setMenuOpened(false)}
       onClick={() => setMobileMenuOpen(false)}
     >
-      <PrismicNextLink
-        field={link}
+      <div
         className={clsx({
-          "header-nav-link py-2 xl:py-0": true,
+          "w-full flex items-center justify-between": !isCta,
           "btn btn-primary": isCta,
-          "w-full flex items-center": !isCta,
-          "is-active": link.url == pathname, // && pathname != "/"
         })}
       >
-        <span className={"block!"}>{link.text}</span>
+        <PrismicNextLink
+          field={link}
+          className={clsx({
+            "header-nav-link py-3 xl:py-0": true,
+            "is-active": link.url == pathname,
+          })}
+        >
+          <span className={"block!"}>{link.text}</span>
+        </PrismicNextLink>
         {dropdown?.length ? (
           <button
             aria-label={menuOpened ? "Close submenu" : "Open submenu"}
@@ -49,18 +54,18 @@ const MenuItem = ({ slice, setMobileMenuOpen }) => {
               e.preventDefault();
               setMenuOpened(!menuOpened);
             }}
-            className={"ms-auto p-2 -my-2 -mr-2 xl:p-0 xl:m-0"}
+            className={"p-2 ml-2 xl:p-0 xl:m-0 flex-shrink-0 min-w-[44px] min-h-[44px] xl:min-w-[20px] xl:min-h-[20px] flex items-center justify-center"}
           >
             <HiChevronDown
               size={20}
               className={clsx(
-                "transition-transform duration-300 mt-[2px] xl:mt-1 ml-2 xl:ml-[2px]",
+                "transition-transform duration-300",
                 menuOpened ? "-scale-[1]" : "scale-[1]",
               )}
             />
           </button>
         ) : null}
-      </PrismicNextLink>
+      </div>
       {dropdown?.length ? (
         <div className="main-nav-dropdown-links-wrapper">
           <ul

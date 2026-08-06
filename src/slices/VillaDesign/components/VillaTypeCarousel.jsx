@@ -80,6 +80,7 @@ const VillaTypeCarousel = ({ items, slice }) => {
                       <PrismicNextImage
                         field={feature.icon}
                         fallbackAlt=""
+                        quality={60}
                         className="w-6 h-6"
                       />
                       <StyledPrismicRichTextSingle

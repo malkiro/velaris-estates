@@ -79,5 +79,14 @@
     "prettier-plugin-tailwindcss": "^0.7.2",
     "slice-machine-ui": "^2.20.5",
     "tailwindcss": "^4.1.17"
-  }
+  },
+  "browserslist": [
+    ">0.3%",
+    "not dead",
+    "not op_mini all",
+    "not safari < 15.4",
+    "not chrome < 92",
+    "not firefox < 90",
+    "not ios_saf < 15.4"
+  ]
 }
