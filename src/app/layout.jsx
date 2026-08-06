@@ -2,7 +2,6 @@ import React from "react";
 
 import { createClient } from "@/prismicio";
 import Script from "next/script";
-import "instantsearch.css/themes/satellite.css";
 import "./globals.scss";
 import isProduction from "@/utils/is-production";
 
@@ -31,6 +30,7 @@ export default async function RootLayout({ children }) {
   return (
     <html lang="en" className={`${titleFont.variable} ${bodyFont.variable}`}>
       <head>
+        <link rel="preconnect" href="https://images.prismic.io" crossOrigin="anonymous" />
         {/* {!isProduction() && <meta name="robots" content="noindex, nofollow" />} */}
 
         {settings.data.gtm_code && (
