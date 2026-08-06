@@ -17,6 +17,7 @@ const Variant5 = ({ slice }) => {
           fetchPriority="high"
           loading="eager"
           sizes="100vw"
+          imgixParams={{ q: 60, auto: "format,compress" }}
         />
 
         <div
