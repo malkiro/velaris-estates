@@ -1,0 +1,38 @@
+[
+  {
+    "type": "page",
+    "uid": "home",
+    "path": "/"
+  },
+  {
+    "type": "page",
+    "path": "/:parent?/:uid",
+    "resolvers": {
+      "parent": "parent"
+    }
+  },
+  {
+    "type": "settings",
+    "path": "/"
+  },
+  {
+    "type": "navigation",
+    "path": "/"
+  },
+  {
+    "type": "blog",
+    "path": "/blog/:uid"
+  },
+  {
+    "type": "case_study",
+    "path": "/case-studies/:uid"
+  },
+  {
+    "type": "villa_design",
+    "path": "/villa-designs/:uid"
+  },
+  {
+    "type": "villa_project",
+    "path": "/investment/buy/:uid"
+  }
+]

@@ -1,0 +1,2820 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LogoCarousel Component first variation with fade effect renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] max-w-full"
+      >
+        <div
+          class="relative bg-white overflow-hidden"
+        >
+          <span
+            class="from-[rgba(255,255,255,1)] to-[rgba(255,255,255,0)] h-[calc(100%+4px)] absolute top-[-2-px] w-[50px] md:w-[100px] lg:w-[150px] select-none pointer-events-none z-[2] bg-gradient-to-r left-[-2px]"
+          />
+          <span
+            class="from-[rgba(255,255,255,1)] to-[rgba(255,255,255,0)] h-[calc(100%+4px)] absolute top-[-2-px] w-[50px] md:w-[100px] lg:w-[150px] select-none pointer-events-none z-[2] bg-gradient-to-l right-[-2px]"
+          />
+          <div
+            class="flex z-0 mt-5 animate-scroll"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`LogoCarousel Component first variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] max-w-full"
+      >
+        <div
+          class="relative bg-white overflow-hidden"
+        >
+          <div
+            class="flex z-0 mt-5 animate-scroll"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`LogoCarousel Component first variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="pb-[20px] md:pb-[40px] xl:pb-[60px] pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] max-w-full"
+      >
+        <div
+          class="relative bg-white overflow-hidden"
+        >
+          <div
+            class="flex z-0 mt-5 animate-scroll"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`LogoCarousel Component first variation with full width renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] max-w-full"
+      >
+        <div
+          class="relative bg-white overflow-hidden"
+        >
+          <div
+            class="flex z-0 mt-5 animate-scroll"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`LogoCarousel Component first variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] max-w-full"
+      >
+        <div
+          class="relative bg-white overflow-hidden"
+        >
+          <div
+            class="flex z-0 mt-5 animate-scroll"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`LogoCarousel Component first variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] max-w-full"
+      >
+        <div
+          class="relative bg-white overflow-hidden"
+        >
+          <div
+            class="flex z-0 mt-5 animate-scroll"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`LogoCarousel Component first variation with two rows renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] max-w-full"
+      >
+        <div
+          class="relative bg-white overflow-hidden"
+        >
+          <div
+            class="flex z-0 mt-5 animate-scroll"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+          <div
+            class="flex z-0 mt-5 animate-scroll-reverse"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`LogoCarousel Component first variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="pb-0 pt-[20px] md:pt-[40px] xl:pt-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] max-w-full"
+      >
+        <div
+          class="relative bg-white overflow-hidden"
+        >
+          <div
+            class="flex z-0 mt-5 animate-scroll"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`LogoCarousel Component first variation without fade effect renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] max-w-full"
+      >
+        <div
+          class="relative bg-white overflow-hidden"
+        >
+          <div
+            class="flex z-0 mt-5 animate-scroll"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`LogoCarousel Component first variation without full width renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="relative bg-white overflow-hidden"
+        >
+          <div
+            class="flex z-0 mt-5 animate-scroll"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`LogoCarousel Component first variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="pt-0 pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] max-w-full"
+      >
+        <div
+          class="relative bg-white overflow-hidden"
+        >
+          <div
+            class="flex z-0 mt-5 animate-scroll"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`LogoCarousel Component first variation without two rows renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] max-w-full"
+      >
+        <div
+          class="relative bg-white overflow-hidden"
+        >
+          <div
+            class="flex z-0 mt-5 animate-scroll"
+            style="animation-duration: 32s; width: 1040px;"
+          >
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+            <div
+              class="overflow-hidden relative"
+              style="margin: 0px 15px; min-width: 100px; width: 100px; height: 50px;"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;

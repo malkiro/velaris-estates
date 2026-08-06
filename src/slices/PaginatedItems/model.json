@@ -1,0 +1,35 @@
+{
+  "id": "paginated_items",
+  "type": "SharedSlice",
+  "name": "PaginatedItems",
+  "description": "PaginatedItems",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "type": {
+          "type": "Select",
+          "config": {
+            "label": "Type",
+            "placeholder": "",
+            "options": ["blog", "  "],
+            "default_value": "blog"
+          }
+        },
+        "number_of_items_per_page": {
+          "type": "Number",
+          "config": {
+            "label": "Number of items per page",
+            "placeholder": "Defaults to 10"
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

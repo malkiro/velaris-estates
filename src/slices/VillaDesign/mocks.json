@@ -1,0 +1,417 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Lorem ipsum dolor sit amet consectetur. Donec eget pellentesque et duis morbi elit ultrices.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Villa designs",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"top_padding": {
+				"__TYPE__": "FieldContent",
+				"type": "Select",
+				"value": "Full"
+			},
+			"bottom_padding": {
+				"__TYPE__": "FieldContent",
+				"type": "Select",
+				"value": "Full"
+			},
+			"with_background_color": {
+				"__TYPE__": "BooleanContent",
+				"value": true
+			}
+		},
+		"items": []
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "variant2",
+		"primary": {
+			"top_padding": {
+				"__TYPE__": "FieldContent",
+				"type": "Select",
+				"value": "Full"
+			},
+			"bottom_padding": {
+				"__TYPE__": "FieldContent",
+				"type": "Select",
+				"value": "Full"
+			},
+			"with_background_color": {
+				"__TYPE__": "BooleanContent",
+				"value": true
+			},
+			"feature_list": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"name",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Sea View",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"icon",
+								{
+									"provider": "imgix",
+									"url": "https://images.unsplash.com/photo-1725461172965-629275e59cb4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxN3x8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85&rect=281,0,3597,3597&w=48&h=48",
+									"alt": "A wooden bowl filled with fruit on top of a wooden floor",
+									"origin": {
+										"id": "6w8RTEMCkqM",
+										"url": "https://images.unsplash.com/photo-1725461172965-629275e59cb4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxN3x8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85",
+										"width": 4159,
+										"height": 3597
+									},
+									"width": 48,
+									"height": 48,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 281,
+											"y": 0
+										}
+									},
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"name",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Outdoor swimming pool",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"icon",
+								{
+									"provider": "imgix",
+									"url": "https://images.unsplash.com/photo-1725461172965-629275e59cb4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxN3x8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85&rect=281,0,3597,3597&w=48&h=48",
+									"alt": "A wooden bowl filled with fruit on top of a wooden floor",
+									"origin": {
+										"id": "6w8RTEMCkqM",
+										"url": "https://images.unsplash.com/photo-1725461172965-629275e59cb4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxN3x8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85",
+										"width": 4159,
+										"height": 3597
+									},
+									"width": 48,
+									"height": 48,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 281,
+											"y": 0
+										}
+									},
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"name",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Balcony View",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"icon",
+								{
+									"provider": "imgix",
+									"url": "https://images.unsplash.com/photo-1725461172965-629275e59cb4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxN3x8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85&rect=281,0,3597,3597&w=48&h=48",
+									"alt": "A wooden bowl filled with fruit on top of a wooden floor",
+									"origin": {
+										"id": "6w8RTEMCkqM",
+										"url": "https://images.unsplash.com/photo-1725461172965-629275e59cb4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxN3x8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85",
+										"width": 4159,
+										"height": 3597
+									},
+									"width": 48,
+									"height": 48,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 281,
+											"y": 0
+										}
+									},
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"name",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Villa Size: 354 sqm",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"icon",
+								{
+									"provider": "imgix",
+									"url": "https://images.unsplash.com/photo-1725461172965-629275e59cb4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxN3x8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85&rect=281,0,3597,3597&w=48&h=48",
+									"alt": "A wooden bowl filled with fruit on top of a wooden floor",
+									"origin": {
+										"id": "6w8RTEMCkqM",
+										"url": "https://images.unsplash.com/photo-1725461172965-629275e59cb4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxN3x8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85",
+										"width": 4159,
+										"height": 3597
+									},
+									"width": 48,
+									"height": 48,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 281,
+											"y": 0
+										}
+									},
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							]
+						]
+					}
+				]
+			},
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Where vision meets value",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Explore our signature villas that blend architectural excellence, prime locations, and exceptional returns.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"feature_title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading3",
+						"content": {
+							"text": "General amenities.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"buttons": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"link",
+								{
+									"key": "6c787dae-8ddf-4a23-b218-1ae09cb3a848",
+									"__TYPE__": "LinkContent",
+									"value": {
+										"__TYPE__": "AnyLink",
+										"kind": "any",
+										"text": "View villa designs"
+									}
+								}
+							],
+							[
+								"variant",
+								{
+									"__TYPE__": "FieldContent",
+									"type": "Select",
+									"value": "Primary"
+								}
+							]
+						]
+					}
+				]
+			},
+			"villa_types": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"image",
+								{
+									"origin": {
+										"id": "main",
+										"url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43",
+										"width": 4024,
+										"height": 4024
+									},
+									"url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43",
+									"width": 4024,
+									"height": 4024,
+									"edit": {
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										},
+										"background": "transparent"
+									},
+									"alt": "forward",
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							],
+							[
+								"name",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Ipsum commodo amet ipsum minim officia. Nulla nostrud minim velit."
+											}
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			},
+			"about_title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading3",
+						"content": {
+							"text": "6 different villa designs to select from",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"about_description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Lorem ipsum dolor sit amet consectetur. Suspendisse justo vitae luctus feugiat ultrices dui feugiat et eu. Et neque adipiscing quisque nulla.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]

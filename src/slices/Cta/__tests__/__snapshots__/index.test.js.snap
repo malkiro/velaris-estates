@@ -1,0 +1,565 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cta Component first variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center items-center bg-white py-[80px]"
+        >
+          <div
+            class="bg-dark-blue shadow-lg text-center lg:h-auto lg:w-[1063px] rounded-[20px] gap-[50px] p-[40px] px-[20px] sm:px-[20px] sm:p-[40px] md:px-[68px] md:p-[60px] lg:px-[149px] lg:p-[80px] md:w-[688px] md:h[336px]"
+          >
+            <div
+              class="mb-[20px]"
+            />
+            <div
+              class="mb-[50px] leading-[22px]"
+            />
+            <div
+              class="flex justify-center gap-4"
+            >
+              <a
+                class="btn btn-primary"
+                href="http://twitter.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Twitter
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Cta Component first variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-[20px] md:pb-[40px] xl:pb-[60px] pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center items-center bg-white py-[80px]"
+        >
+          <div
+            class="bg-dark-blue shadow-lg text-center lg:h-auto lg:w-[1063px] rounded-[20px] gap-[50px] p-[40px] px-[20px] sm:px-[20px] sm:p-[40px] md:px-[68px] md:p-[60px] lg:px-[149px] lg:p-[80px] md:w-[688px] md:h[336px]"
+          >
+            <div
+              class="mb-[20px]"
+            />
+            <div
+              class="mb-[50px] leading-[22px]"
+            />
+            <div
+              class="flex justify-center gap-4"
+            >
+              <a
+                class="btn btn-primary"
+                href="http://twitter.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Twitter
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Cta Component first variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center items-center bg-white py-[80px]"
+        >
+          <div
+            class="bg-dark-blue shadow-lg text-center lg:h-auto lg:w-[1063px] rounded-[20px] gap-[50px] p-[40px] px-[20px] sm:px-[20px] sm:p-[40px] md:px-[68px] md:p-[60px] lg:px-[149px] lg:p-[80px] md:w-[688px] md:h[336px]"
+          >
+            <div
+              class="mb-[20px]"
+            />
+            <div
+              class="mb-[50px] leading-[22px]"
+            />
+            <div
+              class="flex justify-center gap-4"
+            >
+              <a
+                class="btn btn-primary"
+                href="http://twitter.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Twitter
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Cta Component first variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center items-center bg-white py-[80px]"
+        >
+          <div
+            class="bg-dark-blue shadow-lg text-center lg:h-auto lg:w-[1063px] rounded-[20px] gap-[50px] p-[40px] px-[20px] sm:px-[20px] sm:p-[40px] md:px-[68px] md:p-[60px] lg:px-[149px] lg:p-[80px] md:w-[688px] md:h[336px]"
+          >
+            <div
+              class="mb-[20px]"
+            />
+            <div
+              class="mb-[50px] leading-[22px]"
+            />
+            <div
+              class="flex justify-center gap-4"
+            >
+              <a
+                class="btn btn-primary"
+                href="http://twitter.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Twitter
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Cta Component first variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[20px] md:pt-[40px] xl:pt-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center items-center bg-white py-[80px]"
+        >
+          <div
+            class="bg-dark-blue shadow-lg text-center lg:h-auto lg:w-[1063px] rounded-[20px] gap-[50px] p-[40px] px-[20px] sm:px-[20px] sm:p-[40px] md:px-[68px] md:p-[60px] lg:px-[149px] lg:p-[80px] md:w-[688px] md:h[336px]"
+          >
+            <div
+              class="mb-[20px]"
+            />
+            <div
+              class="mb-[50px] leading-[22px]"
+            />
+            <div
+              class="flex justify-center gap-4"
+            >
+              <a
+                class="btn btn-primary"
+                href="http://twitter.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Twitter
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Cta Component first variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex justify-center items-center bg-white py-[80px]"
+        >
+          <div
+            class="bg-dark-blue shadow-lg text-center lg:h-auto lg:w-[1063px] rounded-[20px] gap-[50px] p-[40px] px-[20px] sm:px-[20px] sm:p-[40px] md:px-[68px] md:p-[60px] lg:px-[149px] lg:p-[80px] md:w-[688px] md:h[336px]"
+          >
+            <div
+              class="mb-[20px]"
+            />
+            <div
+              class="mb-[50px] leading-[22px]"
+            />
+            <div
+              class="flex justify-center gap-4"
+            >
+              <a
+                class="btn btn-primary"
+                href="http://twitter.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Twitter
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Cta Component second variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="fullWidth"
+  >
+    <div
+      class="pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] bg-primary"
+      >
+        <div
+          class="flex justify-center items-center py-[80px]"
+        >
+          <div
+            class="bg-primary text-center"
+          >
+            <div
+              class="mb-[20px]"
+            />
+            <div
+              class="mb-[50px] leading-[22px]"
+            />
+            <div
+              class="flex justify-center gap-4"
+            >
+              <a
+                class="btn btn-primary"
+                href="http://google.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                band
+              </a>
+              <a
+                class="btn bg-secondary"
+                href="https://google.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Another
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Cta Component second variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="fullWidth"
+  >
+    <div
+      class="pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] bg-primary"
+      >
+        <div
+          class="flex justify-center items-center py-[80px]"
+        >
+          <div
+            class="bg-primary text-center"
+          >
+            <div
+              class="mb-[20px]"
+            />
+            <div
+              class="mb-[50px] leading-[22px]"
+            />
+            <div
+              class="flex justify-center gap-4"
+            >
+              <a
+                class="btn btn-primary"
+                href="http://google.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                band
+              </a>
+              <a
+                class="btn bg-secondary"
+                href="https://google.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Another
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Cta Component second variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="fullWidth"
+  >
+    <div
+      class="pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] bg-primary"
+      >
+        <div
+          class="flex justify-center items-center py-[80px]"
+        >
+          <div
+            class="bg-primary text-center"
+          >
+            <div
+              class="mb-[20px]"
+            />
+            <div
+              class="mb-[50px] leading-[22px]"
+            />
+            <div
+              class="flex justify-center gap-4"
+            >
+              <a
+                class="btn btn-primary"
+                href="http://google.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                band
+              </a>
+              <a
+                class="btn bg-secondary"
+                href="https://google.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Another
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Cta Component second variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="fullWidth"
+  >
+    <div
+      class="pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] bg-primary"
+      >
+        <div
+          class="flex justify-center items-center py-[80px]"
+        >
+          <div
+            class="bg-primary text-center"
+          >
+            <div
+              class="mb-[20px]"
+            />
+            <div
+              class="mb-[50px] leading-[22px]"
+            />
+            <div
+              class="flex justify-center gap-4"
+            >
+              <a
+                class="btn btn-primary"
+                href="http://google.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                band
+              </a>
+              <a
+                class="btn bg-secondary"
+                href="https://google.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Another
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Cta Component second variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="fullWidth"
+  >
+    <div
+      class="pb-0 pt-[20px] md:pt-[40px] xl:pt-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] bg-primary"
+      >
+        <div
+          class="flex justify-center items-center py-[80px]"
+        >
+          <div
+            class="bg-primary text-center"
+          >
+            <div
+              class="mb-[20px]"
+            />
+            <div
+              class="mb-[50px] leading-[22px]"
+            />
+            <div
+              class="flex justify-center gap-4"
+            >
+              <a
+                class="btn btn-primary"
+                href="http://google.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                band
+              </a>
+              <a
+                class="btn bg-secondary"
+                href="https://google.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Another
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Cta Component second variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="fullWidth"
+  >
+    <div
+      class="pt-0 pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] bg-primary"
+      >
+        <div
+          class="flex justify-center items-center py-[80px]"
+        >
+          <div
+            class="bg-primary text-center"
+          >
+            <div
+              class="mb-[20px]"
+            />
+            <div
+              class="mb-[50px] leading-[22px]"
+            />
+            <div
+              class="flex justify-center gap-4"
+            >
+              <a
+                class="btn btn-primary"
+                href="http://google.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                band
+              </a>
+              <a
+                class="btn bg-secondary"
+                href="https://google.com"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Another
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;

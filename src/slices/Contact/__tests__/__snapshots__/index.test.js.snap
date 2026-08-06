@@ -1,0 +1,451 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact Section first variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="bg-highlight pt-10 md:pt-[60px] lg:pt-[80px]"
+    >
+      <div
+        class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[40px] md:pb-[80px] xl:pb-[120px] "
+      >
+        <div
+          class="mx-auto w-full max-w-[1280px] "
+        >
+          <div
+            class="grid grid-cols-1 gap-10 lg:grid-cols-2"
+          >
+            <div>
+              <div
+                class="mb-3"
+              />
+              <div
+                class="mb-10"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div>
+              <div
+                class="border border-[#D5D8E7] max-w-[512px] mx-auto bg-white py-10 px-8 rounded-[20px] mt-8 md:mt-10 lg:mt-0 "
+              >
+                <h4
+                  class="text-h4 text-center mb-2"
+                >
+                  Contact us
+                </h4>
+                <form>
+                  <div />
+                  <div />
+                  <div />
+                  <div />
+                  <div
+                    class="mt-4 text-center"
+                  >
+                    <a
+                      class="mx-auto btn btn-primary"
+                      href=""
+                    >
+                      Submit
+                    </a>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="w-full h-[250px] md:h-[350px] lg:h-[500px] relative mt-5 md:mt-10 lg:mt-[80px]"
+      >
+        <iframe
+          class="h-full w-full absolute left-0 top-0"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          src="[object Object]"
+          title="undefined-map-section"
+        />
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Contact Section first variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="bg-highlight pt-10 md:pt-[60px] lg:pt-[80px]"
+    >
+      <div
+        class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[40px] md:pt-[80px] xl:pt-[120px] "
+      >
+        <div
+          class="mx-auto w-full max-w-[1280px] "
+        >
+          <div
+            class="grid grid-cols-1 gap-10 lg:grid-cols-2"
+          >
+            <div>
+              <div
+                class="mb-3"
+              />
+              <div
+                class="mb-10"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div>
+              <div
+                class="border border-[#D5D8E7] max-w-[512px] mx-auto bg-white py-10 px-8 rounded-[20px] mt-8 md:mt-10 lg:mt-0 "
+              >
+                <h4
+                  class="text-h4 text-center mb-2"
+                >
+                  Contact us
+                </h4>
+                <form>
+                  <div />
+                  <div />
+                  <div />
+                  <div />
+                  <div
+                    class="mt-4 text-center"
+                  >
+                    <a
+                      class="mx-auto btn btn-primary"
+                      href=""
+                    >
+                      Submit
+                    </a>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="w-full h-[250px] md:h-[350px] lg:h-[500px] relative mt-5 md:mt-10 lg:mt-[80px]"
+      >
+        <iframe
+          class="h-full w-full absolute left-0 top-0"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          src="[object Object]"
+          title="undefined-map-section"
+        />
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Contact Section first variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="bg-highlight pt-10 md:pt-[60px] lg:pt-[80px]"
+    >
+      <div
+        class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[20px] md:pb-[40px] xl:pb-[60px] "
+      >
+        <div
+          class="mx-auto w-full max-w-[1280px] "
+        >
+          <div
+            class="grid grid-cols-1 gap-10 lg:grid-cols-2"
+          >
+            <div>
+              <div
+                class="mb-3"
+              />
+              <div
+                class="mb-10"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div>
+              <div
+                class="border border-[#D5D8E7] max-w-[512px] mx-auto bg-white py-10 px-8 rounded-[20px] mt-8 md:mt-10 lg:mt-0 "
+              >
+                <h4
+                  class="text-h4 text-center mb-2"
+                >
+                  Contact us
+                </h4>
+                <form>
+                  <div />
+                  <div />
+                  <div />
+                  <div />
+                  <div
+                    class="mt-4 text-center"
+                  >
+                    <a
+                      class="mx-auto btn btn-primary"
+                      href=""
+                    >
+                      Submit
+                    </a>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="w-full h-[250px] md:h-[350px] lg:h-[500px] relative mt-5 md:mt-10 lg:mt-[80px]"
+      >
+        <iframe
+          class="h-full w-full absolute left-0 top-0"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          src="[object Object]"
+          title="undefined-map-section"
+        />
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Contact Section first variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="bg-highlight pt-10 md:pt-[60px] lg:pt-[80px]"
+    >
+      <div
+        class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[20px] md:pt-[40px] xl:pt-[60px] "
+      >
+        <div
+          class="mx-auto w-full max-w-[1280px] "
+        >
+          <div
+            class="grid grid-cols-1 gap-10 lg:grid-cols-2"
+          >
+            <div>
+              <div
+                class="mb-3"
+              />
+              <div
+                class="mb-10"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div>
+              <div
+                class="border border-[#D5D8E7] max-w-[512px] mx-auto bg-white py-10 px-8 rounded-[20px] mt-8 md:mt-10 lg:mt-0 "
+              >
+                <h4
+                  class="text-h4 text-center mb-2"
+                >
+                  Contact us
+                </h4>
+                <form>
+                  <div />
+                  <div />
+                  <div />
+                  <div />
+                  <div
+                    class="mt-4 text-center"
+                  >
+                    <a
+                      class="mx-auto btn btn-primary"
+                      href=""
+                    >
+                      Submit
+                    </a>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="w-full h-[250px] md:h-[350px] lg:h-[500px] relative mt-5 md:mt-10 lg:mt-[80px]"
+      >
+        <iframe
+          class="h-full w-full absolute left-0 top-0"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          src="[object Object]"
+          title="undefined-map-section"
+        />
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Contact Section first variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="bg-highlight pt-10 md:pt-[60px] lg:pt-[80px]"
+    >
+      <div
+        class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-0 "
+      >
+        <div
+          class="mx-auto w-full max-w-[1280px] "
+        >
+          <div
+            class="grid grid-cols-1 gap-10 lg:grid-cols-2"
+          >
+            <div>
+              <div
+                class="mb-3"
+              />
+              <div
+                class="mb-10"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div>
+              <div
+                class="border border-[#D5D8E7] max-w-[512px] mx-auto bg-white py-10 px-8 rounded-[20px] mt-8 md:mt-10 lg:mt-0 "
+              >
+                <h4
+                  class="text-h4 text-center mb-2"
+                >
+                  Contact us
+                </h4>
+                <form>
+                  <div />
+                  <div />
+                  <div />
+                  <div />
+                  <div
+                    class="mt-4 text-center"
+                  >
+                    <a
+                      class="mx-auto btn btn-primary"
+                      href=""
+                    >
+                      Submit
+                    </a>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="w-full h-[250px] md:h-[350px] lg:h-[500px] relative mt-5 md:mt-10 lg:mt-[80px]"
+      >
+        <iframe
+          class="h-full w-full absolute left-0 top-0"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          src="[object Object]"
+          title="undefined-map-section"
+        />
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Contact Section first variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="bg-highlight pt-10 md:pt-[60px] lg:pt-[80px]"
+    >
+      <div
+        class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-0 "
+      >
+        <div
+          class="mx-auto w-full max-w-[1280px] "
+        >
+          <div
+            class="grid grid-cols-1 gap-10 lg:grid-cols-2"
+          >
+            <div>
+              <div
+                class="mb-3"
+              />
+              <div
+                class="mb-10"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div>
+              <div
+                class="border border-[#D5D8E7] max-w-[512px] mx-auto bg-white py-10 px-8 rounded-[20px] mt-8 md:mt-10 lg:mt-0 "
+              >
+                <h4
+                  class="text-h4 text-center mb-2"
+                >
+                  Contact us
+                </h4>
+                <form>
+                  <div />
+                  <div />
+                  <div />
+                  <div />
+                  <div
+                    class="mt-4 text-center"
+                  >
+                    <a
+                      class="mx-auto btn btn-primary"
+                      href=""
+                    >
+                      Submit
+                    </a>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="w-full h-[250px] md:h-[350px] lg:h-[500px] relative mt-5 md:mt-10 lg:mt-[80px]"
+      >
+        <iframe
+          class="h-full w-full absolute left-0 top-0"
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          src="[object Object]"
+          title="undefined-map-section"
+        />
+      </div>
+    </div>
+  </section>
+</div>
+`;

@@ -1,0 +1,19 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "number_of_items_per_page": {
+        "__TYPE__": "FieldContent",
+        "value": "82",
+        "type": "Number"
+      },
+      "type": {
+        "__TYPE__": "FieldContent",
+        "value": "Blog",
+        "type": "Select"
+      }
+    },
+    "items": []
+  }
+]

@@ -1,0 +1,639 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ImageDescriptionCard Section first variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section first variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section first variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-[20px] md:pb-[40px] xl:pb-[60px] pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section first variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section first variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section first variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+        <div
+          class="mb-[30px] last:mb-0 lg:mb-0 last:lg:pb-0 lg:py-[40px] max-w-[580px] md:max-w-[680px] lg:max-w-none mx-auto lg:flex-row-reverse lg:flex lg:flex-nowrap lg:items-center lg:gap-[40px]"
+        >
+          <div
+            class="mb-[14px]  lg:w-full"
+          >
+            <div
+              class="flex items-center gap-[10px] mb-[8px] lg:mb-[20px] lg:gap-[14px]"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section second variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="singleCard"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mx-auto max-w-[550px] md:max-w-[600px] lg:max-w-none lg:flex lg:flex-nowrap lg:items-center lg:gap-[38px] lg:justify-center lg:flex-row-reverse"
+        >
+          <div
+            class="mb-[24px] w-full lg:max-w-[612px]"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section second variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="singleCard"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mx-auto max-w-[550px] md:max-w-[600px] lg:max-w-none lg:flex lg:flex-nowrap lg:items-center lg:gap-[38px] lg:justify-center lg:flex-row-reverse"
+        >
+          <div
+            class="mb-[24px] w-full lg:max-w-[612px]"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section second variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="singleCard"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-[20px] md:pb-[40px] xl:pb-[60px] pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mx-auto max-w-[550px] md:max-w-[600px] lg:max-w-none lg:flex lg:flex-nowrap lg:items-center lg:gap-[38px] lg:justify-center lg:flex-row-reverse"
+        >
+          <div
+            class="mb-[24px] w-full lg:max-w-[612px]"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section second variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="singleCard"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mx-auto max-w-[550px] md:max-w-[600px] lg:max-w-none lg:flex lg:flex-nowrap lg:items-center lg:gap-[38px] lg:justify-center lg:flex-row-reverse"
+        >
+          <div
+            class="mb-[24px] w-full lg:max-w-[612px]"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section second variation with left aligned image renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="singleCard"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mx-auto max-w-[550px] md:max-w-[600px] lg:max-w-none lg:flex lg:flex-nowrap lg:items-center lg:gap-[38px] lg:justify-center lg:flex-row-reverse"
+        >
+          <div
+            class="mb-[24px] w-full lg:max-w-[612px]"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section second variation with right aligned image renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="singleCard"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mx-auto max-w-[550px] md:max-w-[600px] lg:max-w-none lg:flex lg:flex-nowrap lg:items-center lg:gap-[38px] lg:justify-center lg:flex-row"
+        >
+          <div
+            class="mb-[24px] w-full lg:max-w-[612px]"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section second variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="singleCard"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mx-auto max-w-[550px] md:max-w-[600px] lg:max-w-none lg:flex lg:flex-nowrap lg:items-center lg:gap-[38px] lg:justify-center lg:flex-row-reverse"
+        >
+          <div
+            class="mb-[24px] w-full lg:max-w-[612px]"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`ImageDescriptionCard Section second variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="singleCard"
+    style="background-color: rgb(244, 248, 255);"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="mx-auto max-w-[550px] md:max-w-[600px] lg:max-w-none lg:flex lg:flex-nowrap lg:items-center lg:gap-[38px] lg:justify-center lg:flex-row-reverse"
+        >
+          <div
+            class="mb-[24px] w-full lg:max-w-[612px]"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;

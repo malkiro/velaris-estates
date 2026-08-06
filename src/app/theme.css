@@ -1,0 +1,121 @@
+@import "tailwindcss";
+
+@plugin '@tailwindcss/aspect-ratio';
+
+@theme {
+  --font-*: initial;
+  --font-sans:
+    var(--font-inter), ui-sans-serif, system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+
+  --color-body-color: #000;
+  --color-title-color: #000;
+
+  --color-primary-dark: #000053;
+  --color-primary-light: #C3A470;
+  --color-primary-light-2: #A5895B;
+  --color-primary-light-3: #E8DBC3;
+  --color-primary-offwhite: #F6F5F2;
+  --color-primary-offwhite-2: #EAE8E3;
+  --color-primary-white: #ffffff;
+  --color-primary-link: #C3A470;
+
+  --color-secondary-dark: #000042;
+  --color-secondary-light: #F6F5F2;
+  --color-secondary-light-2: #C3A470;
+
+  --color-text-light: #fafafa;
+  --color-text-placeholder: #6a6a6a;
+  --color-text-description: #8c8c8c;
+  --color-text-secondary: #2f2f2f;
+  --color-text-base: #1d1d1d;
+  --color-text-heading: #0d0d0d;
+
+  --color-border-split: #fdfdfd;
+  --color-border-primary: #d9d9d9;
+  --color-border-secondary: #f0f0f0;
+
+  --color-success-bg: #f6ffed;
+  --color-success-bg-hover: #d9f7be;
+  --color-success-border: #b7eb8f;
+  --color-success-border-hover: #95de64;
+  --color-success-hover: #73d13d;
+  --color-success-primary: #52c41a;
+  --color-success-active: #389e0d;
+  --color-success-text-hover: #237804;
+  --color-success-text: #135200;
+  --color-success-text-active: #092b00;
+
+  --color-Warning-bg: #fffbe6;
+  --color-Warning-bg-hover: #fff1b8;
+  --color-Warning-border: #ffe58f;
+  --color-Warning-border-hover: #ffd666;
+  --color-Warning-hover: #ffc53d;
+  --color-Warning-primary: #faad14;
+  --color-Warning-active: #d48806;
+  --color-Warning-text-hover: #ad6800;
+  --color-Warning-text: #874d00;
+  --color-Warning-text-active: #613400;
+
+  --color-error-bg: #fff1f0;
+  --color-error-bg-hover: #ffccc7;
+  --color-error-border: #ffa39e;
+  --color-error-border-hover: #ff7875;
+  --color-error-hover: #ff4d4f;
+  --color-error-primary: #f5222d;
+  --color-error-active: #cf1322;
+  --color-error-text-hover: #a8071a;
+  --color-error-text: #820014;
+  --color-error-text-active: #5c0011;
+
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1200px;
+  --breakpoint-2xl: 1440px;
+  --breakpoint-3xl: 1920px;
+
+  --animate-scroll: scroll linear infinite;
+  --animate-scroll-reverse: scroll-reverse linear infinite;
+
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+
+  @keyframes scroll-reverse {
+    0% {
+      transform: translateX(-100%);
+    }
+
+    100% {
+      transform: translateX(0%);
+    }
+  }
+}
+
+/*
+  The default border color has changed to `currentcolor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentcolor);
+  }
+}

@@ -1,0 +1,398 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"top_padding": {
+				"__TYPE__": "FieldContent",
+				"value": "Half",
+				"type": "Select"
+			},
+			"bottom_padding": {
+				"__TYPE__": "FieldContent",
+				"value": "Full",
+				"type": "Select"
+			},
+			"background_color": {
+				"__TYPE__": "FieldContent",
+				"value": "#ec6828",
+				"type": "Color"
+			},
+			"with_background_color": {
+				"__TYPE__": "BooleanContent",
+				"value": true
+			},
+			"features": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"image_icon",
+								{
+									"provider": "imgix",
+									"url": "https://images.unsplash.com/photo-1609158247917-2581b1505fbe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxNHx8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85&rect=0,1000,4000,4000&w=80&h=80",
+									"alt": "orange fruits on brown woven basket",
+									"origin": {
+										"id": "yX3UfC-HjlY",
+										"url": "https://images.unsplash.com/photo-1609158247917-2581b1505fbe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxNHx8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85",
+										"width": 4000,
+										"height": 6000
+									},
+									"width": 80,
+									"height": 80,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 1000
+										}
+									},
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							],
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Lorem ipsum",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Lorem ipsum dolor sit amet consectetur. Donec eget pellentesque et duis morbi elit ultrices.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"image_icon",
+								{
+									"provider": "imgix",
+									"url": "https://images.unsplash.com/photo-1609158247917-2581b1505fbe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxNHx8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85&rect=0,1000,4000,4000&w=80&h=80",
+									"alt": "orange fruits on brown woven basket",
+									"origin": {
+										"id": "yX3UfC-HjlY",
+										"url": "https://images.unsplash.com/photo-1609158247917-2581b1505fbe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxNHx8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85",
+										"width": 4000,
+										"height": 6000
+									},
+									"width": 80,
+									"height": 80,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 1000
+										}
+									},
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							],
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Lorem ipsum",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Lorem ipsum dolor sit amet consectetur. Donec eget pellentesque et duis morbi elit ultrices.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"image_icon",
+								{
+									"provider": "imgix",
+									"url": "https://images.unsplash.com/photo-1609158247917-2581b1505fbe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxNHx8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85&rect=0,1000,4000,4000&w=80&h=80",
+									"alt": "orange fruits on brown woven basket",
+									"origin": {
+										"id": "yX3UfC-HjlY",
+										"url": "https://images.unsplash.com/photo-1609158247917-2581b1505fbe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxNHx8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85",
+										"width": 4000,
+										"height": 6000
+									},
+									"width": 80,
+									"height": 80,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 1000
+										}
+									},
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							],
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Lorem ipsum",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Lorem ipsum dolor sit amet consectetur. Donec eget pellentesque et duis morbi elit ultrices.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"image_icon",
+								{
+									"provider": "imgix",
+									"url": "https://images.unsplash.com/photo-1609158247917-2581b1505fbe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxNHx8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85&rect=0,1000,4000,4000&w=80&h=80",
+									"alt": "orange fruits on brown woven basket",
+									"origin": {
+										"id": "yX3UfC-HjlY",
+										"url": "https://images.unsplash.com/photo-1609158247917-2581b1505fbe?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxNHx8Y2l0cnVzJTIwZnJ1aXR8ZW58MHx8fHwxNzY3NzY1MTMyfDA&ixlib=rb-4.1.0&q=85",
+										"width": 4000,
+										"height": 6000
+									},
+									"width": 80,
+									"height": 80,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 1000
+										}
+									},
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							],
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Lorem ipsum",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"description",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Lorem ipsum dolor sit amet consectetur. Donec eget pellentesque et duis morbi elit ultrices.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							]
+						]
+					}
+				]
+			},
+			"subtitle": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Why invest",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Your smartest asset\nawaits",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"image": {
+				"provider": "imgix",
+				"url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyfHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3Njc3NjUxMzJ8MA&ixlib=rb-4.1.0&q=85",
+				"alt": "orange fruits under blue sky during daytime",
+				"origin": {
+					"id": "eaOjEz8746k",
+					"url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwyfHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3Njc3NjUxMzJ8MA&ixlib=rb-4.1.0&q=85",
+					"width": 5688,
+					"height": 3792
+				},
+				"width": 5688,
+				"height": 3792,
+				"edit": {
+					"background": "transparent",
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"credits": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			}
+		},
+		"items": []
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "withCards",
+		"primary": {
+			"top_padding": {
+				"__TYPE__": "FieldContent",
+				"value": "Half",
+				"type": "Select"
+			},
+			"bottom_padding": {
+				"__TYPE__": "FieldContent",
+				"value": "None",
+				"type": "Select"
+			},
+			"with_background_color": {
+				"__TYPE__": "BooleanContent",
+				"value": false
+			},
+			"subtitle": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Incididunt nostrud labore amet duis enim proident. Ullamco consectetur fugiat irure commodo dolor irure dolor qui mollit exercitation nulla voluptate ea incididunt nostrud."
+						}
+					}
+				]
+			},
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Dolore eiusmod irure dolor aliquip aliquip velit ut ad ut magna aliquip."
+						}
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Duis non ea nostrud ad aliqua."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"link": {
+				"key": "11bc178e-9986-4f9b-9fe4-3b977dd238b5",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com",
+					"text": "pay",
+					"variant": "Default"
+				}
+			},
+			"dropdown": {
+				"__TYPE__": "RepeatableContent",
+				"type": "Link",
+				"value": [
+					{
+						"key": "82f6169d-e6fe-43ae-ae6b-593b993514a8",
+						"__TYPE__": "LinkContent",
+						"value": {
+							"__TYPE__": "ExternalLink",
+							"url": "http://twitter.com",
+							"text": "actually"
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

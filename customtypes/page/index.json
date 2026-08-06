@@ -1,0 +1,164 @@
+{
+  "id": "page",
+  "label": "Page",
+  "format": "page",
+  "repeatable": true,
+  "status": true,
+  "json": {
+    "Main": {
+      "uid": {
+        "type": "UID",
+        "config": {
+          "label": "Slug",
+          "placeholder": ""
+        }
+      },
+      "title": {
+        "type": "StructuredText",
+        "config": {
+          "label": "Title",
+          "placeholder": "",
+          "allowTargetBlank": true,
+          "single": "heading1"
+        }
+      },
+      "parent": {
+        "type": "Link",
+        "config": {
+          "label": "Parent",
+          "select": "document",
+          "customtypes": ["page"]
+        }
+      },
+      "search_summary": {
+        "type": "Text",
+        "config": {
+          "label": "Search Summary",
+          "placeholder": "This is used only for site search"
+        }
+      },
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "choose_your_path": {
+              "type": "SharedSlice"
+            },
+            "our_team": {
+              "type": "SharedSlice"
+            },
+            "gallery": {
+              "type": "SharedSlice"
+            },
+            "villa_design": {
+              "type": "SharedSlice"
+            },
+            "about": {
+              "type": "SharedSlice"
+            },
+            "why_us": {
+              "type": "SharedSlice"
+            },
+            "rich_text": {
+              "type": "SharedSlice"
+            },
+            "image_description_card_section": {
+              "type": "SharedSlice"
+            },
+            "contact": {
+              "type": "SharedSlice"
+            },
+            "paginated_items": {
+              "type": "SharedSlice"
+            },
+            "logo_carousel": {
+              "type": "SharedSlice"
+            },
+            "testimonial": {
+              "type": "SharedSlice"
+            },
+            "features": {
+              "type": "SharedSlice"
+            },
+            "cta": {
+              "type": "SharedSlice"
+            },
+            "questions": {
+              "type": "SharedSlice"
+            },
+            "hero": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    },
+    "SEO & Metadata": {
+      "meta_title": {
+        "type": "Text",
+        "config": {
+          "label": "Meta Title",
+          "placeholder": "A title of the page used for social media and search engines"
+        }
+      },
+      "meta_description": {
+        "type": "Text",
+        "config": {
+          "label": "Meta Description",
+          "placeholder": "A brief summary of the page"
+        }
+      },
+      "og_image": {
+        "type": "Image",
+        "config": {
+          "label": "OG Image",
+          "constraint": {
+            "width": 2400,
+            "height": 1260
+          },
+          "thumbnails": []
+        }
+      },
+      "og_title": {
+        "type": "Text",
+        "config": {
+          "label": "OG Title",
+          "placeholder": "If left empty, meta title will be used"
+        }
+      },
+      "og_description": {
+        "type": "Text",
+        "config": {
+          "label": "OG Description",
+          "placeholder": "If left empty, meta description will be used"
+        }
+      },
+      "og_url": {
+        "type": "Text",
+        "config": {
+          "label": "OG URL",
+          "placeholder": "If left empty, default page URL will be used"
+        }
+      }
+    },
+    "Structured Data": {
+      "structured_data": {
+        "type": "Group",
+        "config": {
+          "label": "Structured Data",
+          "repeat": true,
+          "fields": {
+            "json": {
+              "type": "Text",
+              "config": {
+                "label": "JSON",
+                "placeholder": ""
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

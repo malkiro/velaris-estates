@@ -1,0 +1,3367 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Feature Component first variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWithButton"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="flex flex-col xl:flex-row xl:justify-between w-fit"
+          >
+            <div
+              class="xl:w-1/2 text-center md:text-start "
+            >
+              <div
+                class="mt-[10px] mb-[10px] md:mt-[20px]"
+              />
+              <p
+                class=" mb-7 last:mb-0"
+              />
+            </div>
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:justify-start md:mt-[42px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex flex-col items-center  xl:flex-row"
+          >
+            <div
+              class=""
+            >
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component first variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWithButton"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="flex flex-col xl:flex-row xl:justify-between w-fit"
+          >
+            <div
+              class="xl:w-1/2 text-center md:text-start "
+            >
+              <div
+                class="mt-[10px] mb-[10px] md:mt-[20px]"
+              />
+              <p
+                class=" mb-7 last:mb-0"
+              />
+            </div>
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:justify-start md:mt-[42px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex flex-col items-center  xl:flex-row"
+          >
+            <div
+              class=""
+            >
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component first variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWithButton"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="flex flex-col xl:flex-row xl:justify-between w-fit"
+          >
+            <div
+              class="xl:w-1/2 text-center md:text-start "
+            >
+              <div
+                class="mt-[10px] mb-[10px] md:mt-[20px]"
+              />
+              <p
+                class=" mb-7 last:mb-0"
+              />
+            </div>
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:justify-start md:mt-[42px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex flex-col items-center  xl:flex-row"
+          >
+            <div
+              class=""
+            >
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component first variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWithButton"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[20px] md:pt-[40px] xl:pt-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="flex flex-col xl:flex-row xl:justify-between w-fit"
+          >
+            <div
+              class="xl:w-1/2 text-center md:text-start "
+            >
+              <div
+                class="mt-[10px] mb-[10px] md:mt-[20px]"
+              />
+              <p
+                class=" mb-7 last:mb-0"
+              />
+            </div>
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:justify-start md:mt-[42px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex flex-col items-center  xl:flex-row"
+          >
+            <div
+              class=""
+            >
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component first variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWithButton"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-0 "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="flex flex-col xl:flex-row xl:justify-between w-fit"
+          >
+            <div
+              class="xl:w-1/2 text-center md:text-start "
+            >
+              <div
+                class="mt-[10px] mb-[10px] md:mt-[20px]"
+              />
+              <p
+                class=" mb-7 last:mb-0"
+              />
+            </div>
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:justify-start md:mt-[42px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex flex-col items-center  xl:flex-row"
+          >
+            <div
+              class=""
+            >
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component first variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWithButton"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-0 "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="flex flex-col xl:flex-row xl:justify-between w-fit"
+          >
+            <div
+              class="xl:w-1/2 text-center md:text-start "
+            >
+              <div
+                class="mt-[10px] mb-[10px] md:mt-[20px]"
+              />
+              <p
+                class=" mb-7 last:mb-0"
+              />
+            </div>
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:justify-start md:mt-[42px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex flex-col items-center  xl:flex-row"
+          >
+            <div
+              class=""
+            >
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+              <div
+                class="flex flex-row justify-start mt-[20px] md:mt-[40px] md:justify-center xl:justify-start"
+              >
+                <div
+                  class="flex flex-col"
+                >
+                  <div
+                    class="mb-[10px]"
+                  />
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component fourth variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col xl:flex-row xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="xl:w-[520px]"
+          >
+            <div
+              class="text-center xl:text-start xl:mb-[40px]"
+            >
+              <div
+                class="mt-[10px] mb-[10px] md:mt-[20px]"
+              />
+              <p
+                class=" mb-7 last:mb-0"
+              />
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component fourth variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col xl:flex-row xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="xl:w-[520px]"
+          >
+            <div
+              class="text-center xl:text-start xl:mb-[40px]"
+            >
+              <div
+                class="mt-[10px] mb-[10px] md:mt-[20px]"
+              />
+              <p
+                class=" mb-7 last:mb-0"
+              />
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component fourth variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-[20px] md:pb-[40px] xl:pb-[60px] pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col xl:flex-row xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="xl:w-[520px]"
+          >
+            <div
+              class="text-center xl:text-start xl:mb-[40px]"
+            >
+              <div
+                class="mt-[10px] mb-[10px] md:mt-[20px]"
+              />
+              <p
+                class=" mb-7 last:mb-0"
+              />
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component fourth variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col xl:flex-row xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="xl:w-[520px]"
+          >
+            <div
+              class="text-center xl:text-start xl:mb-[40px]"
+            >
+              <div
+                class="mt-[10px] mb-[10px] md:mt-[20px]"
+              />
+              <p
+                class=" mb-7 last:mb-0"
+              />
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component fourth variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col xl:flex-row xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="xl:w-[520px]"
+          >
+            <div
+              class="text-center xl:text-start xl:mb-[40px]"
+            >
+              <div
+                class="mt-[10px] mb-[10px] md:mt-[20px]"
+              />
+              <p
+                class=" mb-7 last:mb-0"
+              />
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component fourth variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col xl:flex-row xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="xl:w-[520px]"
+          >
+            <div
+              class="text-center xl:text-start xl:mb-[40px]"
+            >
+              <div
+                class="mt-[10px] mb-[10px] md:mt-[20px]"
+              />
+              <p
+                class=" mb-7 last:mb-0"
+              />
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+            <div
+              class="flex flex-row justify-start mt-[20px] md:justify-center xl:justify-start"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component second variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWithCards"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <p
+              class=" mb-7 last:mb-0"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-2 md:gap-[20px] md:mx-[30px] xl:grid-cols-4"
+          >
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn bg-secondary"
+                href="https://slicemachine.dev"
+                rel="noreferrer"
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn btn-link"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn bg-secondary"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn btn-link"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component second variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWithCards"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-[20px] md:pb-[40px] xl:pb-[60px] pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <p
+              class=" mb-7 last:mb-0"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-2 md:gap-[20px] md:mx-[30px] xl:grid-cols-4"
+          >
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn bg-secondary"
+                href="https://slicemachine.dev"
+                rel="noreferrer"
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn btn-link"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn bg-secondary"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn btn-link"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component second variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWithCards"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <p
+              class=" mb-7 last:mb-0"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-2 md:gap-[20px] md:mx-[30px] xl:grid-cols-4"
+          >
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn bg-secondary"
+                href="https://slicemachine.dev"
+                rel="noreferrer"
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn btn-link"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn bg-secondary"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn btn-link"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component second variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWithCards"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <p
+              class=" mb-7 last:mb-0"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-2 md:gap-[20px] md:mx-[30px] xl:grid-cols-4"
+          >
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn bg-secondary"
+                href="https://slicemachine.dev"
+                rel="noreferrer"
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn btn-link"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn bg-secondary"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn btn-link"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component second variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWithCards"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-0 "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <p
+              class=" mb-7 last:mb-0"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-2 md:gap-[20px] md:mx-[30px] xl:grid-cols-4"
+          >
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn bg-secondary"
+                href="https://slicemachine.dev"
+                rel="noreferrer"
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn btn-link"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn bg-secondary"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn btn-link"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component second variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWithCards"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <p
+              class=" mb-7 last:mb-0"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-2 md:gap-[20px] md:mx-[30px] xl:grid-cols-4"
+          >
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn bg-secondary"
+                href="https://slicemachine.dev"
+                rel="noreferrer"
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn btn-link"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn bg-secondary"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="flex flex-col items-center text-center bg-secondary-light px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-body-large mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <a
+                class="btn btn-link"
+                href=""
+              >
+                Button Text
+                <svg
+                  class="ml-2"
+                  fill="none"
+                  height="20"
+                  size="20"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component third variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWith3Cards"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <p
+              class=" mb-7 last:mb-0"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-3 md:gap-[20px]  "
+          >
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href="https://prismic.io"
+                  rel="noreferrer"
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href=""
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href=""
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component third variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWith3Cards"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-[20px] md:pb-[40px] xl:pb-[60px] pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <p
+              class=" mb-7 last:mb-0"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-3 md:gap-[20px]  "
+          >
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href="https://prismic.io"
+                  rel="noreferrer"
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href=""
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href=""
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component third variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWith3Cards"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <p
+              class=" mb-7 last:mb-0"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-3 md:gap-[20px]  "
+          >
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href="https://prismic.io"
+                  rel="noreferrer"
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href=""
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href=""
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component third variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWith3Cards"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <p
+              class=" mb-7 last:mb-0"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-3 md:gap-[20px]  "
+          >
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href="https://prismic.io"
+                  rel="noreferrer"
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href=""
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href=""
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component third variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWith3Cards"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[20px] md:pt-[40px] xl:pt-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <p
+              class=" mb-7 last:mb-0"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-3 md:gap-[20px]  "
+          >
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href="https://prismic.io"
+                  rel="noreferrer"
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href=""
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href=""
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Feature Component third variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="featuresWith3Cards"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[20px] md:pb-[40px] xl:pb-[60px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  xl:items-center xl:justify-between xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <p
+              class=" mb-7 last:mb-0"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                Button Text
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                Button Text
+              </a>
+            </div>
+          </div>
+          <div
+            class="mt-[40px] grid grid-cols-1 gap-y-[20px] md:grid-cols-3 md:gap-[20px]  "
+          >
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href="https://prismic.io"
+                  rel="noreferrer"
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href=""
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div
+              class="flex flex-col   px-[10px] py-[20px] gap-y-[10px] "
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="mb-[10px]"
+                />
+                <p
+                  class=" mb-7 last:mb-0"
+                />
+              </div>
+              <div
+                class="w-fit"
+              >
+                <a
+                  class="btn btn-link"
+                  href=""
+                >
+                  Button Text
+                  <svg
+                    class="ml-2"
+                    fill="none"
+                    height="20"
+                    size="20"
+                    viewBox="0 0 24 24"
+                    width="20"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="m12.563 5.25 6.75 6.75-6.75 6.75M18.375 12H4.688"
+                      stroke="currentColor"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                    />
+                  </svg>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;

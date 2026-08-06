@@ -1,0 +1,625 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testimonial Component first variation with full bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  items-center xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                sdfsdfsdf
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                sdfsdfsdf
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex items-center justify-center w-full h-full mt-[30px] md:mt-[40px] xl:mt-[60px]"
+          >
+            <div
+              class="flex items-center justify-center w-full h-full overflow-hidden"
+            >
+              <div
+                class="flex embla__container "
+              >
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                    <p
+                      class=" mb-7 last:mb-0"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                    <p
+                      class=" mb-7 last:mb-0"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Testimonial Component first variation with full top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[40px] md:pt-[80px] xl:pt-[120px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  items-center xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                sdfsdfsdf
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                sdfsdfsdf
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex items-center justify-center w-full h-full mt-[30px] md:mt-[40px] xl:mt-[60px]"
+          >
+            <div
+              class="flex items-center justify-center w-full h-full overflow-hidden"
+            >
+              <div
+                class="flex embla__container "
+              >
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                    <p
+                      class=" mb-7 last:mb-0"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                    <p
+                      class=" mb-7 last:mb-0"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Testimonial Component first variation with half bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-[20px] md:pb-[40px] xl:pb-[60px] pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  items-center xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                sdfsdfsdf
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                sdfsdfsdf
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex items-center justify-center w-full h-full mt-[30px] md:mt-[40px] xl:mt-[60px]"
+          >
+            <div
+              class="flex items-center justify-center w-full h-full overflow-hidden"
+            >
+              <div
+                class="flex embla__container "
+              >
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                    <p
+                      class=" mb-7 last:mb-0"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                    <p
+                      class=" mb-7 last:mb-0"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Testimonial Component first variation with half top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-[20px] md:pt-[40px] xl:pt-[60px] pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  items-center xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                sdfsdfsdf
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                sdfsdfsdf
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex items-center justify-center w-full h-full mt-[30px] md:mt-[40px] xl:mt-[60px]"
+          >
+            <div
+              class="flex items-center justify-center w-full h-full overflow-hidden"
+            >
+              <div
+                class="flex embla__container "
+              >
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                    <p
+                      class=" mb-7 last:mb-0"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                    <p
+                      class=" mb-7 last:mb-0"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Testimonial Component first variation without bottom padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pb-0 pt-[40px] md:pt-[80px] xl:pt-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  items-center xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                sdfsdfsdf
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                sdfsdfsdf
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex items-center justify-center w-full h-full mt-[30px] md:mt-[40px] xl:mt-[60px]"
+          >
+            <div
+              class="flex items-center justify-center w-full h-full overflow-hidden"
+            >
+              <div
+                class="flex embla__container "
+              >
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                    <p
+                      class=" mb-7 last:mb-0"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                    <p
+                      class=" mb-7 last:mb-0"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`Testimonial Component first variation without top padding renders correctly 1`] = `
+<div>
+  <section
+    data-slice-variation="default"
+  >
+    <div
+      class="px-[16px] md:px-[40px] xl:px-[80px] pt-0 pb-[40px] md:pb-[80px] xl:pb-[120px] "
+    >
+      <div
+        class="mx-auto w-full max-w-[1280px] "
+      >
+        <div
+          class="flex flex-col  items-center xl:mx-[88px]"
+        >
+          <div
+            class="text-center  "
+          >
+            <div
+              class="mt-[10px] mb-[10px] md:mt-[20px]"
+            />
+            <div
+              class="flex flex-row justify-center gap-x-[20px] mt-[20px] md:mt-[30px]"
+            >
+              <a
+                class=" bg-black h-fit btn btn-primary"
+                href=""
+              >
+                sdfsdfsdf
+              </a>
+              <a
+                class=" bg-black h-fit btn bg-secondary"
+                href=""
+              >
+                sdfsdfsdf
+              </a>
+            </div>
+          </div>
+          <div
+            class="flex items-center justify-center w-full h-full mt-[30px] md:mt-[40px] xl:mt-[60px]"
+          >
+            <div
+              class="flex items-center justify-center w-full h-full overflow-hidden"
+            >
+              <div
+                class="flex embla__container "
+              >
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                    <p
+                      class=" mb-7 last:mb-0"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                    <p
+                      class=" mb-7 last:mb-0"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="embla__slide w-[100%] mr-[28px] lex flex-col items-start bg-[#F8F8F8] max-w-[354px] px-[26px] py-[20px] md:py-[30px]  min-w-[calc(50%-10px)] lg:min-w-[calc(33.33%-12px)]"
+                >
+                  <p
+                    class=" mb-7 last:mb-0"
+                  />
+                  <div
+                    class="flex flex-col"
+                  >
+                    <div
+                      class="text-body-large mb-[10px]"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;

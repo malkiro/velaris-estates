@@ -1,0 +1,231 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Aute anim cupidatat dolore nisi minim magna in adipisicing officia. Cillum qui pariatur consectetur cupidatat reprehenderit."
+						}
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Do ullamco laborum est dolore voluptate nulla aliquip."
+						}
+					}
+				]
+			},
+			"recipient_email_address": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "potox26768@kurbieh.com"
+			},
+			"map_iframe_url": {
+				"key": "b0edd951-8d35-4777-a209-7f985afe12bd",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7919.984016618571!2d79.901277!3d7.010222!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2f791589eb625%3A0x6d0c0eac9a8d73d7!2sGaludupita%2C%20Wattala!5e0!3m2!1sen!2slk!4v1732262797475!5m2!1sen!2slk\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade"
+				}
+			},
+			"with_background_color": {
+				"__TYPE__": "BooleanContent",
+				"value": true
+			},
+			"secondary_title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Sunt ex anim labore pariatur. Et aliqua mollit nisi nostrud eu fugiat eiusmod ut reprehenderit ea."
+						}
+					}
+				]
+			},
+			"subtitle": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Magna nisi non dolor consectetur Lorem ex esse et ut elit ullamco deserunt ullamco."
+						}
+					}
+				]
+			},
+			"cc_email_addresses": {
+				"__TYPE__": "FieldContent",
+				"value": "zero",
+				"type": "Text"
+			},
+			"bcc_email_addresses": {
+				"__TYPE__": "FieldContent",
+				"value": "clay",
+				"type": "Text"
+			},
+			"form_unsuccess_message": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Non consectetur duis ullamco aliquip Lorem nulla mollit irure anim."
+						}
+					}
+				]
+			},
+			"form_success_message": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Officia nulla laboris qui ullamco do adipisicing culpa voluptate est incididunt."
+						}
+					}
+				]
+			},
+			"acknowledgment_email_message": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Irure occaecat occaecat occaecat ullamco laboris ipsum commodo."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "noMap",
+		"primary": {
+			"top_padding": {
+				"__TYPE__": "FieldContent",
+				"value": "Half",
+				"type": "Select"
+			},
+			"bottom_padding": {
+				"__TYPE__": "FieldContent",
+				"value": "Full",
+				"type": "Select"
+			},
+			"with_background_color": {
+				"__TYPE__": "BooleanContent",
+				"value": false
+			},
+			"subtitle": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ex pariatur esse nulla do culpa veniam Lorem nostrud qui voluptate aliqua fugiat. Minim amet adipisicing proident ipsum voluptate nostrud cupidatat nostrud labore labore reprehenderit culpa fugiat et consequat. Do minim officia amet Lorem aliqua proident dolor excepteur ipsum et esse anim labore nisi fugiat."
+						}
+					}
+				]
+			},
+			"title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Officia adipisicing enim qui. Laboris duis enim duis commodo culpa officia laboris nostrud excepteur voluptate sit elit esse. Cillum fugiat sit dolor irure ullamco tempor magna esse cillum esse eu Lorem non aute exercitation."
+						}
+					}
+				]
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ea est sit in minim culpa culpa. Sunt amet esse occaecat voluptate ut nisi dolor ea deserunt eiusmod."
+						}
+					}
+				]
+			},
+			"secondary_title": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Tempor ex fugiat aliquip sit veniam officia aute do. Ex fugiat aliquip ut in irure Lorem culpa sint culpa deserunt ipsum dolore adipisicing."
+						}
+					}
+				]
+			},
+			"recipient_email_address": {
+				"__TYPE__": "FieldContent",
+				"value": "firm",
+				"type": "Text"
+			},
+			"form_success_message": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Id sit aliqua occaecat cupidatat magna magna tempor ex consectetur reprehenderit sit non nostrud voluptate. Anim laborum sunt dolor mollit aliquip pariatur. Excepteur nisi magna voluptate enim."
+						}
+					}
+				]
+			},
+			"form_unsuccess_message": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Do incididunt excepteur quis enim non do elit. Veniam ad irure aute sint aliqua velit sint culpa. Nisi ex amet incididunt eiusmod eiusmod ut quis do do anim."
+						}
+					}
+				]
+			},
+			"cc_email_addresses": {
+				"__TYPE__": "FieldContent",
+				"value": "trade",
+				"type": "Text"
+			},
+			"bcc_email_addresses": {
+				"__TYPE__": "FieldContent",
+				"value": "income",
+				"type": "Text"
+			},
+			"acknowledgment_email_message": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Ex pariatur exercitation nostrud Lorem incididunt pariatur."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]

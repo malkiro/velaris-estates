@@ -1,0 +1,274 @@
+{
+  "id": "contact",
+  "type": "SharedSlice",
+  "name": "Contact",
+  "description": "Contact",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "top_padding": {
+          "type": "Select",
+          "config": {
+            "label": "Top Padding",
+            "placeholder": "",
+            "options": [
+              "Full",
+              "Half",
+              "None"
+            ]
+          }
+        },
+        "bottom_padding": {
+          "type": "Select",
+          "config": {
+            "label": "Bottom Padding",
+            "placeholder": "",
+            "options": [
+              "Full",
+              "Half",
+              "None"
+            ]
+          }
+        },
+        "with_background_color": {
+          "type": "Boolean",
+          "config": {
+            "label": "With Background Color",
+            "placeholder_false": "No",
+            "placeholder_true": "Yes",
+            "default_value": false
+          }
+        },
+        "subtitle": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Subtitle",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,heading2,heading3,heading4"
+          }
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,heading2,heading3,heading4,heading1"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,heading2,heading3,heading4,strong,em,hyperlink"
+          }
+        },
+        "secondary_title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Secondary Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,heading3,heading4,strong,em,hyperlink,heading2"
+          }
+        },
+        "recipient_email_address": {
+          "type": "Text",
+          "config": {
+            "label": "Recipient Email Address",
+            "placeholder": "Defaults to the value in Settings. Can add comma separated values."
+          }
+        },
+        "form_success_message": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Form success Message",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "form_unsuccess_message": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Form Unsuccess Message",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,hyperlink"
+          }
+        },
+        "map_iframe_url": {
+          "type": "Link",
+          "config": {
+            "label": "Map iFrame URL",
+            "placeholder": "",
+            "allowTargetBlank": false,
+            "select": null,
+            "allowText": false
+          }
+        },
+        "cc_email_addresses": {
+          "type": "Text",
+          "config": {
+            "label": "CC Email Addresses",
+            "placeholder": ""
+          }
+        },
+        "bcc_email_addresses": {
+          "type": "Text",
+          "config": {
+            "label": "BCC Email Addresses",
+            "placeholder": ""
+          }
+        },
+        "acknowledgment_email_message": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Acknowledgment Email Message",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,hyperlink"
+          }
+        }
+      },
+      "items": {}
+    },
+    {
+      "id": "noMap",
+      "name": "No Map",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "top_padding": {
+          "type": "Select",
+          "config": {
+            "label": "Top Padding",
+            "placeholder": "",
+            "options": [
+              "Full",
+              "Half",
+              "None"
+            ]
+          }
+        },
+        "bottom_padding": {
+          "type": "Select",
+          "config": {
+            "label": "Bottom Padding",
+            "placeholder": "",
+            "options": [
+              "Full",
+              "Half",
+              "None"
+            ]
+          }
+        },
+        "with_background_color": {
+          "type": "Boolean",
+          "config": {
+            "label": "With Background Color",
+            "placeholder_false": "No",
+            "placeholder_true": "Yes",
+            "default_value": false
+          }
+        },
+        "subtitle": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Subtitle",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,heading2,heading3,heading4"
+          }
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,heading2,heading3,heading4"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,heading2,heading3,heading4,strong,em,hyperlink"
+          }
+        },
+        "secondary_title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Secondary Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,heading3,heading4,strong,em,hyperlink,heading2"
+          }
+        },
+        "recipient_email_address": {
+          "type": "Text",
+          "config": {
+            "label": "Recipient Email Address",
+            "placeholder": "Defaults to the value in Settings. Can add comma separated values."
+          }
+        },
+        "form_success_message": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Form success Message",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "form_unsuccess_message": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Form Unsuccess Message",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,hyperlink"
+          }
+        },
+        "cc_email_addresses": {
+          "type": "Text",
+          "config": {
+            "label": "CC Email Addresses",
+            "placeholder": ""
+          }
+        },
+        "bcc_email_addresses": {
+          "type": "Text",
+          "config": {
+            "label": "BCC Email Addresses",
+            "placeholder": ""
+          }
+        },
+        "acknowledgment_email_message": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Acknowledgment Email Message",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,strong,hyperlink"
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}
