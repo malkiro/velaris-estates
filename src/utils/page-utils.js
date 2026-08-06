@@ -91,7 +91,7 @@ export const createPageMetadata = (page = {}, settings = {}, params = {}) => {
     title: createMetaTitle(page, settings, params),
     description: createMetaDescription(page, settings),
     alternates: {
-      canonical: `${process.env.NEXT_PUBLIC_SITE_URL}${page.url}`,
+      canonical: `${process.env.NEXT_PUBLIC_SITE_URL || "https://velaris-estates.netlify.app"}${page.url || ""}`,
     },
     openGraph: {
       title: page.data.og_title || createMetaTitle(page, settings, params),

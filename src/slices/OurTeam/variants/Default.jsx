@@ -68,6 +68,7 @@ const TeamCarousel = ({ slice }) => {
                     <div className="w-full max-w-[223px] md:max-w-[254px] lg:max-w-[360px] mb-[12px] md:mb-[31px]">
                       <PrismicNextImage
                         field={item.member_image}
+                        fallbackAlt=""
                         className="w-full h-full object-cover"
                       />
                     </div>

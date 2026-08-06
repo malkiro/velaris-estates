@@ -8,6 +8,7 @@ const ScrollSnaps = ({ buttons, onClick, selectedButton }) => {
           key={index}
           onClick={() => onClick(index)}
           className={clsx(
+            "relative after:content-[''] after:absolute after:-inset-3",
             "h-[9.42px] rounded-full transition-[width] duration-300 xl:h-3",
             index === selectedButton
               ? "w-[28.26px] bg-secondary-light-2 xl:w-9"

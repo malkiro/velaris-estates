@@ -2,6 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
+    formats: ['image/avif', 'image/webp'],
     remotePatterns: [
       {
         protocol: "https",
@@ -13,6 +14,7 @@ const nextConfig = {
       },
     ],
   },
+  productionBrowserSourceMaps: true,
 };
 
 const withBundleAnalyzer = require("@next/bundle-analyzer")({
