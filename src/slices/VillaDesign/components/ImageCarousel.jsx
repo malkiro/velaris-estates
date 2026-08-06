@@ -103,7 +103,7 @@ const ImageCarousel = ({ items, variant = null, resetCarousel = false }) => {
                 fallbackAlt=""
                 width="auto"
                 height="auto"
-                imgixParams={{ q: 60, auto: "format,compress" }}
+                quality={40}
                 sizes="(max-width: 1200px) 100vw, 60vw"
                 className={clsx(
                   "h-full w-full object-cover cursor-grab aspect-343/300 md:aspect-540/472 2xl:h-161.25",
