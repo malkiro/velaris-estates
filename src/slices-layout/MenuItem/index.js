@@ -34,7 +34,7 @@ const MenuItem = ({ slice, setMobileMenuOpen }) => {
       <PrismicNextLink
         field={link}
         className={clsx({
-          "header-nav-link": true,
+          "header-nav-link py-2 xl:py-0": true,
           "btn btn-primary": isCta,
           "w-full flex items-center": !isCta,
           "is-active": link.url == pathname, // && pathname != "/"
@@ -49,7 +49,7 @@ const MenuItem = ({ slice, setMobileMenuOpen }) => {
               e.preventDefault();
               setMenuOpened(!menuOpened);
             }}
-            className={"ms-auto"}
+            className={"ms-auto p-2 -my-2 -mr-2 xl:p-0 xl:m-0"}
           >
             <HiChevronDown
               size={20}

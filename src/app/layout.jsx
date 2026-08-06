@@ -31,7 +31,7 @@ export default async function RootLayout({ children }) {
   return (
     <html lang="en" className={`${titleFont.variable} ${bodyFont.variable}`}>
       <head>
-        {!isProduction() && <meta name="robots" content="noindex, nofollow" />}
+        {/* {!isProduction() && <meta name="robots" content="noindex, nofollow" />} */}
 
         {settings.data.gtm_code && (
           <Script id="google-tag-manager" strategy="afterInteractive">

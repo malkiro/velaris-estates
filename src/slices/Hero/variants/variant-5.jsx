@@ -23,7 +23,7 @@ const Variant5 = ({ slice }) => {
           className="absolute inset-0"
           style={{
             background:
-              "linear-gradient(210.37deg, rgba(0, 0, 0, 0) 37%, rgba(0, 0, 0, 0.7) 95%)",
+              "linear-gradient(210.37deg, rgba(0, 0, 0, 0) 37%, rgba(0, 0, 0, 0.7) 85%)",
           }}
         ></div>
       </div>
