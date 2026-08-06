@@ -104,6 +104,7 @@ const ImageCarousel = ({ items, variant = null, resetCarousel = false }) => {
                 width="auto"
                 height="auto"
                 quality={60}
+                sizes="(max-width: 1200px) 100vw, 60vw"
                 className={clsx(
                   "h-full w-full object-cover cursor-grab aspect-343/300 md:aspect-540/472 2xl:h-161.25",
                   isLightBox &&
