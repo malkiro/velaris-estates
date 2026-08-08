@@ -96,18 +96,18 @@ export default async function StyledFooter() {
             links={navigation.data.copyright_links}
             className="space-y-[6px]"
           />
-          {/* <p>
+          <p>
             &copy; {new Date().getFullYear()} {settings.data.copyright_text}
-            <span className="mx-[6px]">|</span>{" "}
-            <a
+            {/* <span className="mx-[6px]">|</span>{" "} */}
+            {/* <a
               href="https://atdigital.io/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline transition-all duration-300 ease-in-out"
             >
               Website design and development - Malki Roshika
-            </a>
-          </p> */}
+            </a> */}
+          </p>
         </div>
       </div>
     </StyledContainer>
