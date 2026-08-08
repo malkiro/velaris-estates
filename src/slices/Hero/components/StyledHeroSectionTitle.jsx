@@ -34,8 +34,9 @@ const StyledHeroSectionTitle = ({
 
       <div
         className={clsx(
-          "text-body-medium body-font font-normal xl:mx-0",
+          "text-body-medium body-font font-normal",
           dark ? "text-text-heading md:mx-0" : "text-primary-white",
+          contentLeft ? "xl:mx-0" : "max-w-[1024px] mx-auto",
         )}
       >
         <StyledPrismicRichText

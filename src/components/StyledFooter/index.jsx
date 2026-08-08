@@ -86,7 +86,7 @@ export default async function StyledFooter() {
         </div>
       </div>
 
-      <div
+      {/* <div
         className={
           "border-t-border-primary pt-[12px] border-t mt-[40px] text-body-base xl:mt-[60px]"
         }
@@ -108,7 +108,7 @@ export default async function StyledFooter() {
               Website design and development - Malki Roshika
             </a>
           </p>
-        </div>
+        </div> */}
       </div>
     </StyledContainer>
   );
