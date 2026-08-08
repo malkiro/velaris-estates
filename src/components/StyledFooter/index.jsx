@@ -86,7 +86,7 @@ export default async function StyledFooter() {
         </div>
       </div>
 
-      {/* <div
+      <div
         className={
           "border-t-border-primary pt-[12px] border-t mt-[40px] text-body-base xl:mt-[60px]"
         }
@@ -96,7 +96,7 @@ export default async function StyledFooter() {
             links={navigation.data.copyright_links}
             className="space-y-[6px]"
           />
-          <p>
+          {/* <p>
             &copy; {new Date().getFullYear()} {settings.data.copyright_text}
             <span className="mx-[6px]">|</span>{" "}
             <a
@@ -107,8 +107,8 @@ export default async function StyledFooter() {
             >
               Website design and development - Malki Roshika
             </a>
-          </p>
-        </div> */}
+          </p> */}
+        </div>
       </div>
     </StyledContainer>
   );
